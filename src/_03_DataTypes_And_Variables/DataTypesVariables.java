@@ -3,7 +3,7 @@ package _03_DataTypes_And_Variables;
 // Primitive data types - includes byte, short, int, long, float, double, boolean and char
 // Non-primitive data types - such as String, Arrays and Classes
 
-public class DataTypes_Variables {
+public class DataTypesVariables {
     public static void main(String[] args) {
 
         int myNum = 5;                // Integer (whole number)
